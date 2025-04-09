@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 pillow = "*"
-django = "*"
 requests = "*"
+django = "*"
 
 [dev-packages]
 
